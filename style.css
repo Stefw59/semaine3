@@ -1,0 +1,25 @@
+header{
+    background-color:green;
+    font-family:cursive
+    border:1px solid green;
+    text-align:center
+}
+ul{
+    text-align:center;
+}
+li{
+    text-align:left;
+    list-style-type:square;
+}
+.formation{
+    background-color:#90EE90;
+    border:1px solid green;
+    }
+.experience{
+    background-color:#3CB371;
+    border:1px solid green;
+}
+footer{
+    border:1px solid green;
+    background-color:#8FBC8F;
+}
